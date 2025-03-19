@@ -13,5 +13,5 @@ def find_board_size(n, w, h):
 
     return (left, count)
 
-
+#test
 print(find_board_size(1_000_000_000, 50, 90))
